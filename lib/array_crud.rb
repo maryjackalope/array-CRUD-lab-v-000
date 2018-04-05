@@ -1,13 +1,13 @@
 def create_an_empty_array
-  []
+  a= []
 end
 
 def create_an_array
-   [1,2,3,4]
+  b= [1,2,3,4]
 end
 
 def add_element_to_end_of_array(array, element)
-  [1,2,3,4]
+ c= [1,2,3,4]
   <<5
 end
 
